@@ -19,7 +19,4 @@
   </div>
   <br>
   <br>
-
-  i'm editing this mostly on-site so expect commit log salad<br>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/bitcoin-logo-png-transparent.png" width="20px" height="20px">
 </div>
