@@ -9,7 +9,7 @@
   ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
   <div align="left" style="padding: 3px" border:"1px solid orange" box-shadow:"1px 1px 1px #000">
-    - 🤡 I'm using a template until I commit
+    - 🤡 I'm using a template until I commit<br>
     - 🔭 I’m currently working on <i>a lot</i><br>
     - 🌱 I’m currently learning <i>python and rust (d3js)</i><br>
     - 👯 I’m looking to collaborate on <i>decentralized finance</i><br>
