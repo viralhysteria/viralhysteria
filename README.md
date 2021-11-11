@@ -11,7 +11,7 @@
   <div align="left" style="padding: 3px" border:"1px solid orange" box-shadow:"1px 1px 1px #000">
     - 🤡 I'm using a template until I commit<br>
     - 🔭 I’m currently working on <i>a lot</i><br>
-    - 🌱 I’m currently learning <i>python and rust (d3js)</i><br>
+    - 🌱 I’m currently learning <i>python and rust</i><br>
     - 👯 I’m looking to collaborate on <i>decentralized finance</i><br>
     - 🤔 I’m looking for help with <i>nft metadata scraping</i><br>
     - 📫 How to reach me: <i><a href="https://twitter.com/virakhysteria">twitter</a> + discord: <b>  viralhysteria#0413</b></i><br>
