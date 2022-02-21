@@ -1,21 +1,50 @@
-<div align="center">
+![Header](https://lh3.googleusercontent.com/FXYtDXzcqBY52d70e9p6SvzM7JvxnLDy6v9BSIJ3Xp-2ywF3oQwRUdfIymYyKcCSUPRRoak58biNzDo7rjOc0KrvrTLS_dbTQHc=w2880)
 
-  <img src="https://lh3.googleusercontent.com/cMGLMW4Ib7cosj3chqQrsZ1bS8OMDUKJ_Ot8dAiWxRIzB8aib3PENHBkOVnnDXMRGrOQYGeNvd610Q3FshokMB_qh0bgBSKXnxw=h1328" width="400px" height="400px"><br>
-  <i>source: <a href="https://foundation.app/creator/nft-53458" style="none">tonrer (Foundation [unowned])</a></i><br>
+<hr>
 
-  <hr>
+<section id="main" align="center">
 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)<br>
-  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Who am I?
+An enigma. I lurk in the shadows.<br>
+I am also terrible at writing about myself.<br>
+Less talking, more doing.<br><br>
+When I'm not (attempting to code), I'm usually researching pharmacology of various NPS as well as traditional psychoactive substances such as LSD, psilocybin and primarily, DMT in the context of academic studies in neurology (non-student) as you can see from [papers](https://github.com/viralhysteria/papers). I've been researching this on a monthly basis for about 6 years. I also like to do a lot of research into operational security practice and efficient market theory, as well as spending time analysing various aspects of the crypto market.
+## Skills & Proficiencies
 
-  <div align="left" style="padding: 3px" border:"1px solid orange" box-shadow:"1px 1px 1px #000">
-    - 🤡 I'm using a template until I commit<br>
-    - 🔭 I’m currently working on <i>a lot</i><br>
-    - 🌱 I’m currently learning <i>python and rust</i><br>
-    - 👯 I’m looking to collaborate on <i>decentralized finance</i><br>
-    - 🤔 I’m looking for help with <i>nft metadata scraping</i><br>
-    - 📫 How to reach me: <i><a href="https://twitter.com/viralhysteria">twitter</a> + discord: <a href="discordapp.com/users/viralhysteria#0413">discord</a></i><br>
-  </div>
-  <br>
-  <br>
-</div>
+#### Prior Experience
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" title="HTML5" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" title="CSS3" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="Javascript" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" title="JQuery" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" title="NodeJS" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" title="React" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" title="CSS3" width="20px" height="20px">
+<img src="https://clipground.com/images/adobe-photoshop-png-9.png" title="Photoshop" width="20px" height="20px">
+<br>
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" title="Linux" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" title="Bash" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="20px" height="20px">
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/sublime-text-icon.png" title="Sublime Text" width="20px" height="20px">
+<img src="https://www.trackedmusic.com/wp-content/uploads/2017/08/FLStudio_logo-822x1024.png" title="FL Studio" width="20px" height="20px">
+<img src="https://pngimg.com/uploads/bitcoin/bitcoin_PNG48.png" title="Bitcoin" width="20px" height="20px">
+<img src="https://avatars.githubusercontent.com/u/7644688?s=280&v=4" title="TradingView: Technical Analysis" width="20px" height="20px">
+
+#### Currently studying
+<img src="https://clipground.com/images/ethereum-png-12.png" title="Solidity" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" title="Python" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/rust/rust-plain.svg" title="Rust" width="20px" height="20px">
+<br>
+
+#### Education: GED 🧠
+
+<hr>
+
+Contact: [Twitter](https://twitter.com/viralhysteria) / [Discord](https://discordapp.com/users/viralhysteria#0413)<br>
+VR Stream: [Twitch](https://twitch.tv/viralhysteria)
+
+<hr>
+
+<a href="https://psnprofiles.com/Blazewii"><img src="https://card.psnprofiles.com/1/Blazewii.png" border="0"></a>
+
+</section>
