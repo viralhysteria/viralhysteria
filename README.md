@@ -8,7 +8,7 @@
 An enigma. I lurk in the shadows.<br>
 I am also terrible at writing about myself.<br>
 Less talking, more doing.<br><br>
-When I'm not (attempting to code), I'm usually researching pharmacology of various NPS as well as traditional psychoactive substances such as LSD, psilocybin and primarily, DMT in the context of academic studies in neurology (non-student) as you can see from [papers](https://github.com/viralhysteria/papers). I've been researching this on a monthly basis for about 6 years. I also like to do a lot of research into operational security practice and efficient market theory, as well as spending time analysing various aspects of the crypto market.
+When I'm not (attempting to code), I'm usually researching pharmacology of various NPS as well as traditional psychoactive substances such as LSD, psilocybin and primarily, DMT in the context of academic studies in neurology (non-student) as you can see from [papers](https://github.com/viralhysteria/papers). I've been researching this on a monthly basis for about 6 years. I also like to do a lot of research into operational security practice and efficient market theory, as well as spending time analysing various aspects of the crypto market. Long story short, got into HTML through MySpace as kid with my core 2 duo, and that was that.
 ## Skills & Proficiencies
 
 #### Prior Experience
