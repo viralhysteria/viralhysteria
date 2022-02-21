@@ -36,7 +36,7 @@ When I'm not (attempting to code), I'm usually researching pharmacology of vario
 <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/rust/rust-plain.svg" title="Rust" width="20px" height="20px">
 <br>
 
-#### Education: GED 🧠
+#### Education: GED 🧠 [(certificates)](https://github.com/viralhysteria/certificates)
 
 <hr>
 
