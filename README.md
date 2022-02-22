@@ -34,6 +34,9 @@ When I'm not (attempting to code), I'm usually researching pharmacology of vario
 <img src="https://clipground.com/images/ethereum-png-12.png" title="Solidity" width="20px" height="20px">
 <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" title="Python" width="20px" height="20px">
 <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/rust/rust-plain.svg" title="Rust" width="20px" height="20px">
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" title="React" width="20px" height="20px">
+<img src="https://avatars.githubusercontent.com/u/7644688?s=280&v=4" title="TradingView: Technical Analysis" width="20px" height="20px">
+
 <br>
 
 #### Education: GED 🧠 [(certificates)](https://github.com/viralhysteria/certificates)
