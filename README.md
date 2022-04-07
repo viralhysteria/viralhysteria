@@ -41,8 +41,4 @@
 Contact: [Twitter](https://twitter.com/viralhysteria) / [Discord](https://discordapp.com/users/viralhysteria#0413)<br>
 VR Stream: [Twitch](https://twitch.tv/viralhysteria)
 
-<hr>
-
-<a href="https://psnprofiles.com/Blazewii"><img src="https://card.psnprofiles.com/1/Blazewii.png" border="0"></a>
-
 </section>
