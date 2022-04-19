@@ -21,7 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" title="Bash" width="20px" height="20px">
 <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="20px" height="20px">
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/sublime-text-icon.png" title="Sublime Text" width="20px" height="20px">
-<img src="https://www.trackedmusic.com/wp-content/uploads/2017/08/FLStudio_logo-822x1024.png" title="FL Studio" width="20px" height="20px">
+<img src="https://www.techspot.com/images2/downloads/topdownload/2015/12/flstudio.png" title="FL Studio" width="20px" height="20px">
 <img src="https://pngimg.com/uploads/bitcoin/bitcoin_PNG48.png" title="Bitcoin" width="20px" height="20px">
 <img src="https://avatars.githubusercontent.com/u/7644688?s=280&v=4" title="TradingView: Technical Analysis" width="20px" height="20px">
 
