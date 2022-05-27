@@ -37,6 +37,8 @@
 #### Education: GED 🧠 [(certificates)](https://github.com/viralhysteria/certificates)
 
 <hr>
+  
+<img src="https://tryhackme-badges.s3.amazonaws.com/pibacco.png" alt="TryHackMe">
 
 Contact: [Twitter](https://twitter.com/viralhysteria) / [Discord](https://discordapp.com/users/viralhysteria#0413)<br>
 VR Stream: [Twitch](https://twitch.tv/viralhysteria)
