@@ -38,7 +38,7 @@
 
 <hr>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/pibacco.png" alt="TryHackMe">
+![image](https://user-images.githubusercontent.com/1983431/184509563-44759625-9a5e-4733-90ba-4654477b4c22.png)
 
 Contact: [Twitter](https://twitter.com/viralhysteria) / [Discord](https://discordapp.com/users/viralhysteria#0413)<br>
 VR Stream: [Twitch](https://twitch.tv/viralhysteria)
