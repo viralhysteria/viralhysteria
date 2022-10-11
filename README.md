@@ -8,7 +8,7 @@ occasional gamer ― music aficionado ― psychonaut<br>
 <h2>Skills & Proficiencies</h2>
 <h6>
 <u>Webdev</u>: HTML5 | CSS3 | Javascript | jQuery | NodeJS | React<br>
-<u>Sysadmin:</u>: Bash | Unix | Powershell | Linux (deb) | Python | Rust<br>
+<u>Sysadmin:</u> Bash | Unix | Powershell | Linux (deb) | Python | Rust<br>
 <u>Media Design:</u> Davinci Resolve | Audacity | FL Studio | Photoshop | OBS<br>
 <u>Penetration Testing:</u> please refer to <a href="https://tryhackme.com/p/
 pibacco">TryHackMe (Rooms Complete)</a><br>
