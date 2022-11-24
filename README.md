@@ -11,7 +11,7 @@ occasional gamer ― music aficionado ― psychonaut<br>
 <u>Sysadmin:</u> Bash | Unix | Powershell | Linux (deb) | Python | Rust<br>
 <u>Media Design:</u> Davinci Resolve | Audacity | FL Studio | Photoshop | OBS<br>
 <u>Penetration Testing:</u> please refer to <a href="https://tryhackme.com/p/
-pibacco">TryHackMe (Rooms Complete)</a><br>
+viralhysteria">TryHackMe (Rooms Complete)</a><br>
 <u>Miscellaneous:</u> Sublime Text | VSCode | Solidity | Technical Analysis | Regex<br>
 <hr style="height:1px">
 Contact: Twitter: @viralhysteria | Discord: #0413
