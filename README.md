@@ -7,14 +7,19 @@
     </h6>
     <h2>Skills & Proficiencies</h2>
     <h6>
-        <u>Webdev</u>: HTML5 | CSS3 | Javascript | jQuery | NodeJS | React<br>
-        <u>Sysadmin:</u> Bash | Unix | Powershell | Linux (deb) | Python | Rust<br>
-        <u>Media Design:</u> Davinci Resolve | Audacity | FL Studio | Photoshop | OBS<br>
-        <u>Penetration Testing:</u> please refer to <a href="https://tryhackme.com/p/
-viralhysteria">TryHackMe (Rooms Complete)</a><br>
-        <u>Miscellaneous:</u> Sublime Text | VSCode | Solidity | <i>Technical Analysis</i> | Regex<br>
+        <details style="display:inline">
+            <summary><ins>Pentesting</ins>: <a href="https://tryhackme.com/p/
+viralhysteria">TryHackMe (Rooms Complete)</a> [expand]</summary><br>
+            <ins>Frameworks</ins>: armitage | autopsy | brim | burpsuite | chisel | covenant | eztools | gophish | impacket | kape | kibana | metasploit | osquery | owasp | redline | remnux | responder | sherlock | sysinternals suite | volatility | velociraptor | zeek<br><br>
+            <ins>Commandline</ins>: capa | ffuf | gobuster | hashid | hydra | john | linpeas | mimikatz | nmap | sherlock | sublist3r
+        </details>
+        <ins>Webdev</ins>: HTML5 | CSS3 | Javascript | jQuery | NodeJS | React<br>
+        <ins>Sysadmin:</ins> Windows | Bash | Unix | Powershell | Linux (deb) | Python | Rust<br>
+        <ins>Media Design:</ins> Davinci Resolve | Audacity | FL Studio | Photoshop | OBS<br>
+        <ins>Miscellaneous:</ins> Sublime Text | VSCode | Solidity | Technical Analysis | Regex<br>
         <hr style="height:1px">
+        <ins>Books</ins>: https://www.librarything.com/catalog/viralhysteria<br>
         Twitter: @viralhysteria | Discord: #0413
     </h6>
-</section>
+</section><br>
 <img src="https://tikolu.net/i/dkzsd">
