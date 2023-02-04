@@ -19,7 +19,7 @@ viralhysteria">TryHackMe (Rooms Complete)</a> [expand]</summary><br>
         <ins>Miscellaneous:</ins> Sublime Text | VSCode | Solidity | Technical Analysis | Regex<br>
         <hr style="height:1px">
         <ins>Books</ins>: https://www.librarything.com/catalog/viralhysteria<br>
-        Twitter: @viralhysteria | Discord: #0413
+        <ins>Contact</ins> - Twitter: @viralhysteria | Discord: #0413
     </h6>
 </section><br>
 <img src="https://tikolu.net/i/dkzsd">
