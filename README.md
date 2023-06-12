@@ -14,8 +14,7 @@
         <ins>Webdev:</ins> HTML / CSS / Javascript / jQuery / NodeJS / React<br>
         <ins>Sysadmin:</ins> Windows / Bash / Unix / Powershell / Debian / Python / Rust<br>
         <ins>Media Design:</ins> Davinci Resolve / Audacity / FL Studio / Photoshop / OBS<br>
-        <ins>Miscellaneous:</ins> Sublime Text / VSCode / Solidity / Technical Analysis / Data Analysis<br>
-        <hr style="height:1px"><br>
+        <ins>Miscellaneous:</ins> Sublime Text / VSCode / Solidity / Technical Analysis / Data Analysis<br><br>
         <ins>Books:</ins> <a href="https://www.librarything.com/catalog/viralhysteria">Librarything</a><br>
         <ins>Contact:</ins> <a href="https://twitter.com/viralhysteria">Twitter</a> / <a href="https://discordapp.com/users/653346377010642944">Discord</a>
     </h6>
