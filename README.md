@@ -1,5 +1,4 @@
-<img src="https://tikolu.net/i/dfqcb">
-<section align="center">
+<section align="left">
     <h2>Who am I?</h2>
     <h6>
         developer ― pentester ― cyber sleuth ― datahoarder<br>
@@ -8,8 +7,7 @@
     <h2>Skills & Proficiencies</h2>
     <h6>
         <details style="display:inline">
-            <summary><ins>Pentesting</ins>: <a href="https://tryhackme.com/p/
-viralhysteria">TryHackMe (Rooms Complete)</a> [expand]</summary><br>
+            <summary><ins>Pentesting</ins>: <a href="https://tryhackme.com/p/viralhysteria">TryHackMe (Rooms Complete)</a></summary>
             <ins>Frameworks</ins>: armitage / autopsy / brim / burpsuite / chisel / covenant / eztools / gophish / impacket / kape / kibana / metasploit / osquery / owasp / redline / remnux / responder / sherlock / sysinternals suite / volatility / velociraptor / zeek<br><br>
             <ins>Commandline</ins>: capa / ffuf / gobuster / hashid / hydra / john / linpeas / mimikatz / nmap / sherlock / sublist3r
         </details>
@@ -22,4 +20,3 @@ viralhysteria">TryHackMe (Rooms Complete)</a> [expand]</summary><br>
         <ins>Contact</ins>: Twitter - @viralhysteria / Discord - #0413
     </h6>
 </section><br>
-<img src="https://tikolu.net/i/dkzsd">
