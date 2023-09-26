@@ -1,10 +1,4 @@
 <section align="left">
-    <h2>whoami</h2>
-    <h6>
-        developer ― pentester ― designer ― sleuth ― datahoarder<br>
-        gamer & streamer ― trader & analyst ― psychonaut<br>
-    </h6>
-    <h2>Skills & Proficiencies</h2>
     <h6>
         <img src="https://img.shields.io/badge/Pentesting-white">
         <a href="https://tryhackme.com/p/viralhysteria"><img src="https://img.shields.io/badge/TryHackMe-red"></a>
