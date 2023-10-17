@@ -12,7 +12,8 @@
     <b><ins>other hobbies:</ins></b><br>
         - general pharmacology research<br>
         - metaphysic idealism endeavors<br>
-        - trying not to lose my sanity
+        - trying not to lose my sanity<br>
+        - powerlifting (on hiatus)
 </section>
 
 -----
