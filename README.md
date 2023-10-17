@@ -1,13 +1,18 @@
 ### <ins>about me</ins>
 <section>
     <b><ins>what i'm good at:</ins></b><br>
-        staring at a screen locked in a dark room for years<br>
-        working myself into exhaustion without hitting burnout<br>
-        historical analysis of legacy/emerging financial markets
+        - staring at a screen locked in a dark room for years<br>
+        - working myself into exhaustion without hitting burnout<br>
+        - historical analysis of legacy/emerging financial markets
     <br><br>
     <b><ins>what i'm bad at:</ins></b><br>
-        writing about myself, enjoying free/leisure time<br>
-        leaving my house for anything except grocery shopping
+        - writing about myself, enjoying free/leisure time<br>
+        - leaving my house for anything except grocery shopping
+    <br><br>
+    <b><ins>other hobbies:</ins></b><br>
+        - general pharmacology research<br>
+        - metaphysic idealism endeavors<br>
+        - trying not to lose my sanity
 </section>
 
 -----
