@@ -2,7 +2,8 @@
     <h3>about me</h3><hr>
     <b>what i'm good at:</b><br>
         staring at a screen locked in a dark room for years<br>
-        working myself into exhaustion without hitting burnout
+        working myself into exhaustion without hitting burnout<br>
+        historical analysis of legacy/emerging financial markets
     <br><br>
     <b>what i'm bad at:</b><br>
         writing about myself, enjoying free/leisure time<br>
