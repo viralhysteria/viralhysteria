@@ -9,11 +9,6 @@
         - writing about myself, enjoying free/leisure time<br>
         - leaving my house for anything except grocery shopping
     <br><br>
-    <b><ins>other hobbies:</ins></b><br>
-        - general pharmacology research<br>
-        - metaphysic idealism endeavors<br>
-        - trying not to lose my sanity<br>
-        - powerlifting (on hiatus)
 </section>
 
 -----
@@ -43,7 +38,7 @@
         <img src="https://img.shields.io/badge/Tenacity-red?logo=audacity">
         <img src="https://img.shields.io/badge/Photoshop-royalblue?logo=adobephotoshop">
         <img src="https://img.shields.io/badge/OBS-dimgray?logo=obsstudio">
-        <img src="https://img.shields.io/badge/FL_Studio-orange?logo=flstudio">
+        <img src="https://img.shields.io/badge/FL_Studio-orange?logo=data:image/png;base64,">
         <img src="https://img.shields.io/badge/Davinci_Resolve-mediumslateblue">
         <br>
     <b>miscellaneous</b><br>
