@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/Tenacity-red?logo=audacity">
         <img src="https://img.shields.io/badge/Photoshop-royalblue?logo=adobephotoshop">
         <img src="https://img.shields.io/badge/OBS-dimgray?logo=obsstudio">
-        <img src="https://img.shields.io/badge/FL_Studio-orange?logo=data:image/png;base64,">
+        <img src="https://img.shields.io/badge/FL_Studio-orange">
         <img src="https://img.shields.io/badge/Davinci_Resolve-mediumslateblue">
         <br>
     <b>miscellaneous</b><br>
