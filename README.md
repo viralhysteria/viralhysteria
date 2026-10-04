@@ -1,6 +1,6 @@
 ### <ins>about me</ins>
 <section>
-    lorem ipsum (to be updated later, maybe)
+    i dont really like writing about myself but i will say that my git history tends to be a graveyard because i dont like doing incremental commits on personal projects - it is what it is.
 </section>
 
 -----
